@@ -7,4 +7,4 @@ This is my stats220 repo.
 - Feel free to watch this repository
 - You can even ⭐ the repo if you want 
 
-You can also check out my [test website!](https://datasci4everyone.github.io/test/)
+You can also check out my [website!](https://github.com/Cathy0313/stats220/blob/main/index.md)
